@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Tonble.Loans
 {
-    public class Class1
+    public class Startups
     {
-       
+       //start of Tonble beta.
     }
 }
